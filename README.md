@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning full stack dev tools and python frameworks.
 - 💞️ I’m looking to collaborate on some social network creation.
 - 📫 How to reach me: dgomezf@gmail.com/greviouscode@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I L0VE dogs
 
 <!---
