@@ -2,7 +2,7 @@
 - 👀 I’m interested in web programming and learning a lot of new stuff.
 - 🌱 I’m currently learning full stack dev tools and python frameworks.
 - 💞️ I’m looking to collaborate on some social network creation.
-- 📫 How to reach me: dgomezf@gmail.com/greviouscode@gmail.com
+- 📫 How to reach me: dgomezf99@gmail.com/greviouscode@gmail.com
 - ⚡ Fun fact: I L0VE dogs
 
 <!---
